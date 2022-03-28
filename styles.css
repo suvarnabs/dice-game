@@ -21,6 +21,12 @@ h1 {
   font-size: 8rem;
   color: #BB9981;
 }
+h2 {
+  font-size: 3rem;
+  color: #BB9981;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
 
 p {
   font-size: 3rem;
